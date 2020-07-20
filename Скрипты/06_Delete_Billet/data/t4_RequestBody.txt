@@ -1,0 +1,5 @@
+"1=on&flightID=1156667-7-JB&flightID=1156666-15-JB&flightID=1156666-23-JB&flightID=1156751893-3"
+"0855-JB&flightID=45737066-3906-DI&flightID=45714832-4651-DI&flightID=45722241-5424-DI&flightID"
+"=45711134-6202-DI&flightID=45711134-6971-DI&flightID=45725939-7721-DI&flightID=45729649-8503-D"
+"I&.cgifields=6&.cgifields=11&.cgifields=3&.cgifields=7&.cgifields=9&.cgifields=2&.cgifields=8&"
+".cgifields=1&.cgifields=4&.cgifields=10&.cgifields=5&removeFlights.x=65&removeFlights.y=12"

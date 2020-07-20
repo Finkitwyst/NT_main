@@ -1,0 +1,2 @@
+"username=111&password=111&passwordConfirm=111&firstName=Daniil&lastName=Ivanov&address1=3580+2"
+"+Ave+W%2C+Prince+Albert%2C+SK+S6V+5G2&address2=USA&register.x=53&register.y=7"

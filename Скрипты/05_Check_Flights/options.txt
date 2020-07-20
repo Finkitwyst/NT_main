@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Professional\Documents\VuGen\Scripts\05_Check_Flights
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\professional\documents\vugen\scripts\05_check_flights\\logfile.log
+c:\users\professional\documents\vugen\scripts\05_check_flights\\combined_05_Check_Flights.c
+c:\users\professional\documents\vugen\scripts\05_check_flights\\pre_cci.c

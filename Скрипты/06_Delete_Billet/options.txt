@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Professional\Documents\VuGen\Scripts\06_Delete_Billet
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\professional\documents\vugen\scripts\06_delete_billet\\logfile.log
+c:\users\professional\documents\vugen\scripts\06_delete_billet\\combined_06_Delete_Billet.c
+c:\users\professional\documents\vugen\scripts\06_delete_billet\\pre_cci.c
