@@ -1,0 +1,43 @@
+﻿[SLASupervisor_BasicInfo]
+NumFilters=2
+
+[AdditionalFilter0]
+DimensionType=Discrete
+InternalDimName=Event Name
+Dimension=Transaction Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=10
+UseEscapeSequence=1
+DimCount=10
+Dim_0=Choose_The_Flight
+Dim_1=Click_Flights_Button
+Dim_2=Click_Itinerary_Button
+Dim_3=Delete_Billet
+Dim_4=Insert_Flight_Info
+Dim_5=Insert_Information_About_Flight
+Dim_6=Insert_Payment_Info
+Dim_7=Login
+Dim_8=Open_Home_Page
+Dim_9=Sign_Off
+LikeMode=0
+
+[AdditionalFilter1]
+DimensionType=Continuous
+InternalDimName=End Time
+Dimension=Scenario Elapsed Time
+EqualFlag=1
+DimensionTableName=Event_meter
+NumValues=1
+DimCount=2
+Dim_0=150.000000
+Dim_1=3750.000000
+
+[DimensionFunctions]
+DimeFuncCount=1
+DimeFuncType0=FuncFragment
+FunctionName_UI0=Think Time
+DimensionName_UI0=Transaction Response Time,Aminimum,Amaximum
+FunctionFragmentValues_UI0=-Include Think Time
+DimensionFragmentValues_UI0=!([Value]-[Think Time])!,!([Aminimum]-[Think Time])!,!([Amaximum]-[Think Time])!
+
