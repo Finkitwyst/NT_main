@@ -2642,6 +2642,9 @@ Action()
 		"Text/IC=User password was correct",
 		"LAST");
 	
+	web_reg_find("Text=Welcome, <b>{login}</b>",
+		"LAST");
+	
 	web_submit_data("login.pl",
 		"Action=http://localhost:1080/cgi-bin/login.pl",
 		"Method=POST",
@@ -2778,7 +2781,7 @@ Action()
 		"Name=address1", "Value={adress1}", "ENDITEM",
 		"Name=address2", "Value={adress2}", "ENDITEM",
 		"Name=pass1", "Value= ", "ENDITEM",
-		"Name=creditCard", "Value=1324123412341234", "ENDITEM",
+		"Name=creditCard", "Value={cardNumber}", "ENDITEM",
 		"Name=expDate", "Value={expDate}", "ENDITEM",
 		"Name=oldCCOption", "Value=on", "ENDITEM",
 		"Name=numPassengers", "Value={numPassengers}", "ENDITEM",

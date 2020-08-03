@@ -2643,6 +2643,9 @@ Action()
 		"Text/IC=User password was correct",
 		"LAST");
 	
+	web_reg_find("Text=Welcome, <b>{login}</b>",
+		"LAST");
+	
 	web_submit_data("login.pl",
 		"Action=http://localhost:1080/cgi-bin/login.pl",
 		"Method=POST",
@@ -2677,7 +2680,12 @@ Action()
 		"Ordinal=ALL",
 		"SEARCH_FILTERS",
 		"LAST");
-
+	
+	web_reg_save_param("FlightID1",
+    	"LB=name=\"flightID\" value=\"",
+    	"RB=-",
+    	"LAST");
+	
 	web_url("Itinerary Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?page=itinerary", 
 		"TargetFrame=body", 
@@ -2697,6 +2705,11 @@ Action()
 	web_reg_find("Text=Flights List",
 		"LAST");
 	
+	web_reg_save_param("FlightIDDelete",
+    	"LB=name=\"flightID\" value=\"",
+    	"RB=-",
+    	"LAST");
+	
 	web_submit_form("itinerary.pl", 
         "Snapshot=t1.inf", 
         "ITEMDATA", 
@@ -2704,6 +2717,15 @@ Action()
         "Name=removeFlights.x", "Value=74", "ENDITEM", 
         "Name=removeFlights.y", "Value=16", "ENDITEM", 
         "LAST");
+	
+	    if ((lr_eval_string("{FlightID1}")) != lr_eval_string("{FlightIDDelete}"))
+    {
+      	lr_output_message("OK");
+    }
+	else
+	{
+      	lr_error_message("NOPE");          
+    }
 
 	lr_end_transaction("Delete_Billet",2);
 

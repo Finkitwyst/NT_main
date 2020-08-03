@@ -2647,6 +2647,9 @@ Action()
 		"Text/IC=User password was correct",
 		"LAST");
 	
+	web_reg_find("Text=Welcome, <b>{login}</b>",
+		"LAST");
+	
 	web_submit_data("login.pl",
 		"Action=http://localhost:1080/cgi-bin/login.pl",
 		"Method=POST",
@@ -2665,6 +2668,8 @@ Action()
 		"LAST");
 
 	lr_end_transaction("Login",2);
+	
+	lr_think_time(5);
 
 	lr_start_transaction("Click_Flights_Button");
 

@@ -29,7 +29,7 @@ value_for_each_vuser=""
 [parameter:departDate]
 Format="%m/%d/%Y"
 GenerateNewVal="EachOccurrence"
-Offset=""
+Offset="0"
 OffsetUI="0"
 OriginalValue=""
 ParamName="departDate"

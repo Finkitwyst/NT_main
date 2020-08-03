@@ -2617,7 +2617,7 @@ Action()
 		"RequestUrl=*/nav.pl*",
 		"LAST");
 		
-	lr_start_transaction("open_home_guest_page");
+	lr_start_transaction("Open_Home_Page");
 	
 	web_reg_find("Fail=NotFound",
 		"Text/IC=Web Tours",
@@ -2633,7 +2633,7 @@ Action()
 		"Mode=HTML", 
 		"LAST");
 	
-	lr_end_transaction("open_home_guest_page", 2);
+	lr_end_transaction("Open_Home_Page", 2);
 
 	lr_think_time(5);
 
@@ -2643,6 +2643,8 @@ Action()
 		"Text/IC=User password was correct",
 		"LAST");
 
+	web_reg_find("Text=Welcome, <b>{login}</b>",
+		"LAST");
 	
 	web_submit_data("login.pl",
 		"Action=http://localhost:1080/cgi-bin/login.pl",
@@ -2662,6 +2664,8 @@ Action()
 		"LAST");
 
 	lr_end_transaction("Login",2);
+	
+	lr_think_time(5);
 
 	lr_start_transaction("Sign_Off");
 

@@ -6,62 +6,62 @@
                 "stepId": "STEP1",
                 "stepName": "Url: WebTours",
                 "infFile": "t2.inf",
-                "time": 1595176364779
+                "time": 1596045999858
             },
             {
                 "stepId": "STEP2",
                 "stepName": "Submit Data: login.pl",
                 "infFile": "t3.inf",
-                "time": 1595176365004
+                "time": 1596046005074
             },
             {
                 "stepId": "STEP3",
                 "stepName": "Url: Itinerary Button",
                 "infFile": "t4.inf",
-                "time": 1595176365245
+                "time": 1596046010511
             },
             {
                 "stepId": "STEP4",
                 "stepName": "Url: SignOff Button",
                 "infFile": "t5.inf",
-                "time": 1595176365437
+                "time": 1596046015684
             }
         ],
         "transactions": [
             {
                 "transactionName": "Open_Home_Page",
-                "rawStartTime": 1595176364517,
-                "rawEndTime": 1595176364786,
+                "rawStartTime": 1596045999558,
+                "rawEndTime": 1596045999874,
                 "thinkTime": 0.0,
-                "wastedTime": 0.11653542518615723
+                "wastedTime": 0.14786195755004884
             },
             {
                 "transactionName": "Login",
-                "rawStartTime": 1595176364816,
-                "rawEndTime": 1595176365006,
+                "rawStartTime": 1596046004907,
+                "rawEndTime": 1596046005078,
                 "thinkTime": 0.0,
-                "wastedTime": 0.011904001235961914
+                "wastedTime": 0.01028752326965332
             },
             {
                 "transactionName": "Click_Itinerary_Button",
-                "rawStartTime": 1595176365022,
-                "rawEndTime": 1595176365259,
+                "rawStartTime": 1596046010125,
+                "rawEndTime": 1596046010516,
                 "thinkTime": 0.0,
-                "wastedTime": 0.011815309524536133
+                "wastedTime": 0.015683650970458986
             },
             {
                 "transactionName": "Sign_Off",
-                "rawStartTime": 1595176365291,
-                "rawEndTime": 1595176365446,
+                "rawStartTime": 1596046015552,
+                "rawEndTime": 1596046015692,
                 "thinkTime": 0.0,
-                "wastedTime": 0.006548166275024414
+                "wastedTime": 0.00560307502746582
             },
             {
                 "transactionName": "05_Check_Flights",
-                "rawStartTime": 1595176364486,
-                "rawEndTime": 1595176365462,
-                "thinkTime": 0.0,
-                "wastedTime": 0.15004873275756837
+                "rawStartTime": 1596045999527,
+                "rawEndTime": 1596046015708,
+                "thinkTime": 15.019169,
+                "wastedTime": 0.1823570728302002
             }
         ]
     }

@@ -1,0 +1,966 @@
+Start auto log messages stack - Iteration 6.	[MsgId: MMSG-10545]
+Action.c(80):       <TD COLSPAN="3">\n
+Action.c(80):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(80):       07/26/2020\n
+Action.c(80):      :  8am : Flight 380 leaves Los Angeles  for Sydney.<br>  </center>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     \n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD COLSPAN="4">\n
+Action.c(80):       <hr/>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     \n
+Action.c(80):     <!-- Flight #1 -->\n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(80):     <b>\n
+Action.c(80):     <label><input type="checkbox" name="29" value="on" /></label></font></b>\n
+Action.c(80):     <input type="hidden" name="flightID" value="45721143-22342905-KM"  />\n
+Action.c(80):       </TD>\n
+Action.c(80):       <TD width="45%" valign="top">\n
+Action.c(80):           <b>&nbsp;&nbsp;528 Business class tickets for :</b><br/>\n
+Action.c(80):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(80):           <li><i>       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+Action.c(80):     i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li>
+Action.c(80):     <i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li
+Action.c(80):     ><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <l
+Action.c(80):     i><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <
+Action.c(80):     li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      
+Action.c(80):     <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>     
+Action.c(80):      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>    
+Action.c(80):       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>   
+Action.c(80):        <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+Action.c(80):         <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i> 
+Action.c(80):          <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>
+Action.c(80):           <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i
+Action.c(80):     >      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+Action.c(80):     i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li>
+Action.c(80):     <i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li
+Action.c(80):     ><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <l
+Action.c(80):     i><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <
+Action.c(80):     li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      
+Action.c(80):     <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>     
+Action.c(80):      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>    
+Action.c(80):       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>   
+Action.c(80):        <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+Action.c(80):         <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i> 
+Action.c(80):          <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>
+Action.c(80):           <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i
+Action.c(80):     >      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+Action.c(80):     i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li>
+Action.c(80):     <i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li
+Action.c(80):     ><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <l
+Action.c(80):     i><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <
+Action.c(80):     li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      
+Action.c(80):     <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>     
+Action.c(80):      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>    
+Action.c(80):       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>   
+Action.c(80):        <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+Action.c(80):         <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i> 
+Action.c(80):          <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>
+Action.c(80):           <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i
+Action.c(80):     >      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+Action.c(80):     i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li>
+Action.c(80):     <i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li
+Action.c(80):     ><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <l
+Action.c(80):     i><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <
+Action.c(80):     li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      
+Action.c(80):     <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>     
+Action.c(80):      <li><i>      <li><i>      <li><i>      <li><i>      <li><i
+Action.c(80): Notify: Saving Parameter "FlightsID_29 = 45721143-22342905-KM".	[MsgId: MMSG-13798]
+Action.c(80): t=1070333ms: 6-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=148)
+Action.c(80):     1000\r\n
+Action.c(80): t=1070333ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=148)
+Action.c(80):     \r\n
+Action.c(80):     1000\r\n
+Action.c(80): t=1070333ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=148)
+Action.c(80):     \r\n
+Action.c(80): t=1070333ms: 8192-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=148)
+Action.c(80):     >      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+Action.c(80):     i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li>
+Action.c(80):     <i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li
+Action.c(80):     ><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <l
+Action.c(80):     i><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <
+Action.c(80):     li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      
+Action.c(80):     <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>     
+Action.c(80):      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>    
+Action.c(80):       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>   
+Action.c(80):        <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+Action.c(80):         <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i> 
+Action.c(80):          <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>
+Action.c(80):           <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i
+Action.c(80):     >      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+Action.c(80):     i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li>
+Action.c(80):     <i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li
+Action.c(80):     ><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <l
+Action.c(80):     i><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <
+Action.c(80):     li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      
+Action.c(80):     <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>     
+Action.c(80):      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>    
+Action.c(80):       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>   
+Action.c(80):        <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+Action.c(80):         <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i> 
+Action.c(80):          <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>
+Action.c(80):           <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i
+Action.c(80):     >      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+Action.c(80):     i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li>
+Action.c(80):     <i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li
+Action.c(80):     ><i>      <li><i>      <li><i>      <li><i>      <li><i>\n
+Action.c(80):           <li><i></i>\n
+Action.c(80):           </td></tr></table></center>\n
+Action.c(80):       </TD>\n
+Action.c(80):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(80):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(80):           <center>\n
+Action.c(80):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(80):               Ksenia Marks\n
+Action.c(80):     <br/>\n
+Action.c(80):               2685 2 Ave W #5, Prince Albert, SK S6V 5E3<br/>\n
+Action.c(80):               Russia<br/>\n
+Action.c(80):               <br/>\n
+Action.c(80):               Total Charge: $ 457776 <BR/> (CC: x-1234)\n
+Action.c(80):           </td> </tr> </table>\n
+Action.c(80):           </center>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD COLSPAN="3">\n
+Action.c(80):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(80):       07/26/2020\n
+Action.c(80):      :  8am : Flight 470 leaves Paris  for Seattle.<br>  </center>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     \n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD COLSPAN="4">\n
+Action.c(80):       <hr/>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     \n
+Action.c(80):     <!-- Flight #1 -->\n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(80):     <b>\n
+Action.c(80):     <label><input type="checkbox" name="30" value="on" /></label></font></b>\n
+Action.c(80):     <input type="hidden" name="flightID" value="457118-230-KS"  />\n
+Action.c(80):       </TD>\n
+Action.c(80):       <TD width="45%" valign="top">\n
+Action.c(80):           <b>&nbsp;&nbsp;133 First class tickets for :</b><br/>\n
+Action.c(80):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(80):           <li><i>       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+Action.c(80):     i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li>
+Action.c(80):     <i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li
+Action.c(80):     ><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <l
+Action.c(80):     i><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <
+Action.c(80):     li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      
+Action.c(80):     <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>     
+Action.c(80):      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>    
+Action.c(80):       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>   
+Action.c(80):        <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+Action.c(80):         <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i> 
+Action.c(80):          <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>
+Action.c(80):           <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i
+Action.c(80):     >      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+Action.c(80):     i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li>
+Action.c(80):     <i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li
+Action.c(80):     ><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <l
+Action.c(80):     i><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <
+Action.c(80):     li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      
+Action.c(80):     <li><i>      <li><i>\n
+Action.c(80):           <li><i></i>\n
+Action.c(80):           </td></tr></table></center>\n
+Action.c(80):       </TD>\n
+Action.c(80):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(80):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(80):           <center>\n
+Action.c(80):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(80):               Kurt Sergeev\n
+Action.c(80):     <br/>\n
+Action.c(80):               2685 2 Ave W #5, Prince Albert, SK S6V 5E3<br/>\n
+Action.c(80):               Russia<br/>\n
+Action.c(80):               <br/>\n
+Action.c(80):               Total Charge: $ 0 <BR/> (CC: x-1234)\n
+Action.c(80):           </td> </tr> </table>\n
+Action.c(80):           </center>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD COLSPAN="3">\n
+Action.c(80):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(80):       07/26/2020\n
+Action.c(80):      :  8am : Flight 220 leaves London  for London.<br>  </center>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     \n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD COLSPAN="4">\n
+Action.c(80):       <hr/>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     \n
+Action.c(80):     <!-- Flight #1 -->\n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(80):     <b>\n
+Action.c(80):     <label><input type="checkbox" name="31" value="on" /></label></font></b>\n
+Action.c(80):     <input type="hidden" name="flightID" value="45730752-2386225-DM"  />\n
+Action.c(80):       </TD>\n
+Action.c(80):       <TD width="45%" valign="top">\n
+Action.c(80):           <b>&nbsp;&nbsp;64 First class tickets for :</b><br/>\n
+Action.c(80):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(80):           <li><i>       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+Action.c(80):     i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li>
+Action.c(80):     <i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li
+Action.c(80):     ><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <l
+Action.c(80):     i><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <
+Action.c(80):     li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      
+Action.c(80):     <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>     
+Action.c(80):      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>    
+Action.c(80):       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>   
+Action.c(80):        <li><i>      <li><i>\n
+Action.c(80):           <li><i></i>\n
+Action.c(80):           </td></tr></table></center>\n
+Action.c(80):       </TD>\n
+Action.c(80):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(80):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(80):           <center>\n
+Action.c(80):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(80):               Dima Maksimov\n
+Action.c(80):     <br/>\n
+Action.c(80):               1521 6 Ave W, Prince Albert, SK S6V 5K1<br/>\n
+Action.c(80):               Kazahstan<br/>\n
+Action.c(80):               <br/>\n
+Action.c(80):               Total Charge: $ 20928 <BR/> (CC: x-1234)\n
+Action.c(80):           </td> </tr> </table>\n
+Action.c(80):           </center>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD COLSPAN="3">\n
+Action.c(80):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(80):       07/26/2020\n
+Action.c(80):      :  8am : Flight 730 leaves Seattle  for Los Angeles.<br>  </center>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     \n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD COLSPAN="4">\n
+Action.c(80):       <hr/>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     \n
+Action.c(80):     <!-- Flight #1 -->\n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD width="5%" rowspan="2
+Action.c(80): Notify: Saving Parameter "FlightsID_30 = 457118-230-KS".	[MsgId: MMSG-13798]
+Action.c(80): Notify: Saving Parameter "FlightsID_31 = 45730752-2386225-DM".	[MsgId: MMSG-13798]
+Action.c(80): t=1070334ms: 6-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=148)
+Action.c(80):     1000\r\n
+Action.c(80): t=1070334ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=148)
+Action.c(80):     \r\n
+Action.c(80):     1000\r\n
+Action.c(80): t=1070334ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=148)
+Action.c(80):     \r\n
+Action.c(80): t=1070334ms: 8192-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=148)
+Action.c(80):     " align="left" valign="top">\n
+Action.c(80):     <b>\n
+Action.c(80):     <label><input type="checkbox" name="32" value="on" /></label></font></b>\n
+Action.c(80):     <input type="hidden" name="flightID" value="457122275-24633664-DM"  />\n
+Action.c(80):       </TD>\n
+Action.c(80):       <TD width="45%" valign="top">\n
+Action.c(80):           <b>&nbsp;&nbsp;164 First class tickets for :</b><br/>\n
+Action.c(80):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(80):           <li><i>       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+Action.c(80):     i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li>
+Action.c(80):     <i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li
+Action.c(80):     ><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <l
+Action.c(80):     i><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <
+Action.c(80):     li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      
+Action.c(80):     <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>     
+Action.c(80):      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>    
+Action.c(80):       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>   
+Action.c(80):        <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+Action.c(80):         <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i> 
+Action.c(80):          <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>
+Action.c(80):           <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i
+Action.c(80):     >      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+Action.c(80):     i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li>
+Action.c(80):     <i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li
+Action.c(80):     ><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <l
+Action.c(80):     i><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <
+Action.c(80):     li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      
+Action.c(80):     <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>     
+Action.c(80):      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>    
+Action.c(80):       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>   
+Action.c(80):        <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+Action.c(80):         <li><i>      <li><i>      <li><i>      <li><i>      <li><i>\n
+Action.c(80):           <li><i></i>\n
+Action.c(80):           </td></tr></table></center>\n
+Action.c(80):       </TD>\n
+Action.c(80):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(80):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(80):           <center>\n
+Action.c(80):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(80):               Dima Maksimov\n
+Action.c(80):     <br/>\n
+Action.c(80):               1521 6 Ave W, Prince Albert, SK S6V 5K1<br/>\n
+Action.c(80):               Kazahstan<br/>\n
+Action.c(80):               <br/>\n
+Action.c(80):               Total Charge: $ 237636 <BR/> (CC: x-1234)\n
+Action.c(80):           </td> </tr> </table>\n
+Action.c(80):           </center>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD COLSPAN="3">\n
+Action.c(80):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(80):       07/26/2020\n
+Action.c(80):      :  8am : Flight 230 leaves London  for Los Angeles.<br>  </center>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     \n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD COLSPAN="4">\n
+Action.c(80):       <hr/>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     \n
+Action.c(80):     <!-- Flight #1 -->\n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(80):     <b>\n
+Action.c(80):     <label><input type="checkbox" name="33" value="on" /></label></font></b>\n
+Action.c(80):     <input type="hidden" name="flightID" value="45710027-2542332-KM"  />\n
+Action.c(80):       </TD>\n
+Action.c(80):       <TD width="45%" valign="top">\n
+Action.c(80):           <b>&nbsp;&nbsp;68 Business class tickets for :</b><br/>\n
+Action.c(80):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(80):           <li><i>       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+Action.c(80):     i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li>
+Action.c(80):     <i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li
+Action.c(80):     ><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <l
+Action.c(80):     i><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <
+Action.c(80):     li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      
+Action.c(80):     <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>     
+Action.c(80):      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>    
+Action.c(80):       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>   
+Action.c(80):        <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>\n
+Action.c(80):           <li><i></i>\n
+Action.c(80):           </td></tr></table></center>\n
+Action.c(80):       </TD>\n
+Action.c(80):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(80):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(80):           <center>\n
+Action.c(80):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(80):               Ksenia Marks\n
+Action.c(80):     <br/>\n
+Action.c(80):               2685 2 Ave W #5, Prince Albert, SK S6V 5E3<br/>\n
+Action.c(80):               Russia<br/>\n
+Action.c(80):               <br/>\n
+Action.c(80):               Total Charge: $ 50320 <BR/> (CC: x-1234)\n
+Action.c(80):           </td> </tr> </table>\n
+Action.c(80):           </center>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD COLSPAN="3">\n
+Action.c(80):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(80):       07/26/2020\n
+Action.c(80):      :  8am : Flight 170 leaves Frankfurt  for Seattle.<br>  </center>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     \n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD COLSPAN="4">\n
+Action.c(80):       <hr/>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     \n
+Action.c(80):     <!-- Flight #1 -->\n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(80):     <b>\n
+Action.c(80):     <label><input type="checkbox" name="34" value="on" /></label></font></b>\n
+Action.c(80):     <input type="hidden" name="flightID" value="45722236-2620619-DI"  />\n
+Action.c(80):       </TD>\n
+Action.c(80):       <TD width="45%" valign="top">\n
+Action.c(80):           <b>&nbsp;&nbsp;171 Business class tickets for :</b><br/>\n
+Action.c(80):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(80):           <li><i>       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+Action.c(80):     i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li>
+Action.c(80):     <i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li
+Action.c(80):     ><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <l
+Action.c(80):     i><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <
+Action.c(80):     li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      
+Action.c(80):     <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>     
+Action.c(80):      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>    
+Action.c(80):       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>   
+Action.c(80):        <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+Action.c(80):         <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i> 
+Action.c(80):          <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>
+Action.c(80):           <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i
+Action.c(80):     >      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+Action.c(80):     i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li>
+Action.c(80):     <i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li
+Action.c(80):     ><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <l
+Action.c(80):     i><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <
+Action.c(80):     li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      
+Action.c(80):     <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>     
+Action.c(80):      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>    
+Action.c(80):       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>   
+Action.c(80):        <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+Action.c(80):         <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i> 
+Action.c(80):          <li><i>      <li><i>      <li><i>      <li><i>      <li><i>\n
+Action.c(80):           <li><i></i>\n
+Action.c(80):           </td></tr></table></center>\n
+Action.c(80):       </TD>\n
+Action.c(80):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(80):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(80):           <center>\n
+Action.c(80):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(80):               Daniil Ivantsov\n
+Action.c(80):     <br/>\n
+Action.c(80):               3580 2 Ave W, Prince Albert, SK S6V 5G2<br/>\n
+Action.c(80):               USA<br/>\n
+Action.c(80):               <br/>\n
+Action.c(80):               Total Charge: $ 68058 <BR/> (CC: x-1234)\n
+Action.c(80):          
+Action.c(80): Notify: Saving Parameter "FlightsID_32 = 457122275-24633664-DM".	[MsgId: MMSG-13798]
+Action.c(80): Notify: Saving Parameter "FlightsID_33 = 45710027-2542332-KM".	[MsgId: MMSG-13798]
+Action.c(80): Notify: Saving Parameter "FlightsID_34 = 45722236-2620619-DI".	[MsgId: MMSG-13798]
+Action.c(80): t=1070335ms: 6-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=148)
+Action.c(80):     1000\r\n
+Action.c(80): t=1070335ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=148)
+Action.c(80):     \r\n
+Action.c(80): t=1070335ms: 4096-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=148)
+Action.c(80):      </td> </tr> </table>\n
+Action.c(80):           </center>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD COLSPAN="3">\n
+Action.c(80):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(80):       07/26/2020\n
+Action.c(80):      :  8am : Flight 500 leaves Portland  for Denver.<br>  </center>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     \n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD COLSPAN="4">\n
+Action.c(80):       <hr/>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     \n
+Action.c(80):     <!-- Flight #1 -->\n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(80):     <b>\n
+Action.c(80):     <label><input type="checkbox" name="35" value="on" /></label></font></b>\n
+Action.c(80):     <input type="hidden" name="flightID" value="45708895-2693237-AS"  />\n
+Action.c(80):       </TD>\n
+Action.c(80):       <TD width="45%" valign="top">\n
+Action.c(80):           <b>&nbsp;&nbsp;65 Business class tickets for :</b><br/>\n
+Action.c(80):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(80):           <li><i>       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+Action.c(80):     i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li>
+Action.c(80):     <i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li
+Action.c(80):     ><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <l
+Action.c(80):     i><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <
+Action.c(80):     li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      
+Action.c(80):     <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>     
+Action.c(80):      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>    
+Action.c(80):       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>   
+Action.c(80):        <li><i>      <li><i>      <li><i>\n
+Action.c(80):           <li><i></i>\n
+Action.c(80):           </td></tr></table></center>\n
+Action.c(80):       </TD>\n
+Action.c(80):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(80):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(80):           <center>\n
+Action.c(80):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(80):               Aleksey Sidorov\n
+Action.c(80):     <br/>\n
+Action.c(80):               2320 6 Ave W, Prince Albert, SK S6V 5K8<br/>\n
+Action.c(80):               Japan<br/>\n
+Action.c(80):               <br/>\n
+Action.c(80):               Total Charge: $ 12090 <BR/> (CC: x-1234)\n
+Action.c(80):           </td> </tr> </table>\n
+Action.c(80):           </center>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD COLSPAN="3">\n
+Action.c(80):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(80):       07/26/2020\n
+Action.c(80):      :  8am : Flight 140 leaves Frankfurt  for Paris.<br>  </center>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     \n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD COLSPAN="4">\n
+Action.c(80):       <hr/>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     \n
+Action.c(80):     <!-- Flight #1 -->\n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(80):     <b>\n
+Action.c(80):     <label><input type="checkbox" name="36" value="on" /></label></font></b>\n
+Action.c(80):     <input type="hidden" name="flightID" value="45705204-2775678-AS"  />\n
+Action.c(80):       </TD>\n
+Action.c(80):       <TD width="45%" valign="top">\n
+Action.c(80):           <b>&nbsp;&nbsp;165 Business class tickets for :</b><br/>\n
+Action.c(80):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(80):           <li><i>       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+Action.c(80):     i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li>
+Action.c(80):     <i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li
+Action.c(80):     ><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <l
+Action.c(80):     i><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <
+Action.c(80):     li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      
+Action.c(80):     <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>     
+Action.c(80):      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>    
+Action.c(80):       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>   
+Action.c(80):        <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+Action.c(80):         <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i> 
+Action.c(80):          <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>
+Action.c(80):           <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i
+Action.c(80):     >      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+Action.c(80):     i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li>
+Action.c(80):     <i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li
+Action.c(80):     ><i>      <li><i>
+Action.c(80): Notify: Saving Parameter "FlightsID_35 = 45708895-2693237-AS".	[MsgId: MMSG-13798]
+Action.c(80): Notify: Saving Parameter "FlightsID_36 = 45705204-2775678-AS".	[MsgId: MMSG-13798]
+Action.c(80): t=1070335ms: 6-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=148)
+Action.c(80):     2000\r\n
+Action.c(80): t=1070335ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=148)
+Action.c(80):     \r\n
+Action.c(80): t=1070335ms: 8192-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=148)
+Action.c(80):           <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i
+Action.c(80):     >      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+Action.c(80):     i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li>
+Action.c(80):     <i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li
+Action.c(80):     ><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <l
+Action.c(80):     i><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <
+Action.c(80):     li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      
+Action.c(80):     <li><i>      <li><i>      <li><i>      <li><i>      <li><i>\n
+Action.c(80):           <li><i></i>\n
+Action.c(80):           </td></tr></table></center>\n
+Action.c(80):       </TD>\n
+Action.c(80):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(80):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(80):           <center>\n
+Action.c(80):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(80):               Aleksey Sidorov\n
+Action.c(80):     <br/>\n
+Action.c(80):               2320 6 Ave W, Prince Albert, SK S6V 5K8<br/>\n
+Action.c(80):               Japan<br/>\n
+Action.c(80):               <br/>\n
+Action.c(80):               Total Charge: $ 83820 <BR/> (CC: x-1234)\n
+Action.c(80):           </td> </tr> </table>\n
+Action.c(80):           </center>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD COLSPAN="3">\n
+Action.c(80):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(80):       07/26/2020\n
+Action.c(80):      :  8am : Flight 040 leaves Denver  for Paris.<br>  </center>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     \n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD COLSPAN="4">\n
+Action.c(80):       <hr/>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     \n
+Action.c(80):     <!-- Flight #1 -->\n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(80):     <b>\n
+Action.c(80):     <label><input type="checkbox" name="37" value="on" /></label></font></b>\n
+Action.c(80):     <input type="hidden" name="flightID" value="45711495-28478182-MI"  />\n
+Action.c(80):       </TD>\n
+Action.c(80):       <TD width="45%" valign="top">\n
+Action.c(80):           <b>&nbsp;&nbsp;562 Business class tickets for :</b><br/>\n
+Action.c(80):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(80):           <li><i>       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+Action.c(80):     i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li>
+Action.c(80):     <i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li
+Action.c(80):     ><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <l
+Action.c(80):     i><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <
+Action.c(80):     li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      
+Action.c(80):     <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>     
+Action.c(80):      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>    
+Action.c(80):       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>   
+Action.c(80):        <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+Action.c(80):         <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i> 
+Action.c(80):          <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>
+Action.c(80):           <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i
+Action.c(80):     >      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+Action.c(80):     i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li>
+Action.c(80):     <i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li
+Action.c(80):     ><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <l
+Action.c(80):     i><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <
+Action.c(80):     li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      
+Action.c(80):     <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>     
+Action.c(80):      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>    
+Action.c(80):       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>   
+Action.c(80):        <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+Action.c(80):         <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i> 
+Action.c(80):          <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>
+Action.c(80):           <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i
+Action.c(80):     >      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+Action.c(80):     i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li>
+Action.c(80):     <i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li
+Action.c(80):     ><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <l
+Action.c(80):     i><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <
+Action.c(80):     li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      
+Action.c(80):     <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>     
+Action.c(80):      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>    
+Action.c(80):       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>   
+Action.c(80):        <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+Action.c(80):         <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i> 
+Action.c(80):          <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>
+Action.c(80):           <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i
+Action.c(80):     >      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+Action.c(80):     i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li>
+Action.c(80):     <i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li
+Action.c(80):     ><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <l
+Action.c(80):     i><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <
+Action.c(80):     li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      
+Action.c(80):     <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>     
+Action.c(80):      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>    
+Action.c(80):       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>   
+Action.c(80):        <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+Action.c(80):         <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i> 
+Action.c(80):          <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>
+Action.c(80):           <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i
+Action.c(80):     >      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+Action.c(80):     i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li>
+Action.c(80):     <i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li
+Action.c(80):     ><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <l
+Action.c(80):     i><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <
+Action.c(80):     li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      
+Action.c(80):     <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>     
+Action.c(80):      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>    
+Action.c(80):       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>   
+Action.c(80):        <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+Action.c(80):         <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i> 
+Action.c(80):          <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>
+Action.c(80):           <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i
+Action.c(80):     >      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+Action.c(80):     i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li>
+Action.c(80):     <i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li
+Action.c(80):     ><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <l
+Action.c(80):     i><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <
+Action.c(80):     li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      
+Action.c(80):     <li><i>      
+Action.c(80): Notify: Saving Parameter "FlightsID_37 = 45711495-28478182-MI".	[MsgId: MMSG-13798]
+Action.c(80): t=1070336ms: 6-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=148)
+Action.c(80):     1000\r\n
+Action.c(80): t=1070336ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=148)
+Action.c(80):     \r\n
+Action.c(80): t=1070336ms: 4096-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=148)
+Action.c(80):     <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>     
+Action.c(80):      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>    
+Action.c(80):       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>   
+Action.c(80):        <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+Action.c(80):         <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i> 
+Action.c(80):          <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>
+Action.c(80):           <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i
+Action.c(80):     >      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+Action.c(80):     i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li>
+Action.c(80):     <i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li
+Action.c(80):     ><i>\n
+Action.c(80):           <li><i></i>\n
+Action.c(80):           </td></tr></table></center>\n
+Action.c(80):       </TD>\n
+Action.c(80):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(80):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(80):           <center>\n
+Action.c(80):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(80):               Maria Ivanov\n
+Action.c(80):     <br/>\n
+Action.c(80):               2995 2 Ave W, Prince Albert, SK S6V 5V5<br/>\n
+Action.c(80):               Canada<br/>\n
+Action.c(80):               <br/>\n
+Action.c(80):               Total Charge: $ 216370 <BR/> (CC: x-1234)\n
+Action.c(80):           </td> </tr> </table>\n
+Action.c(80):           </center>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD COLSPAN="3">\n
+Action.c(80):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(80):       07/26/2020\n
+Action.c(80):      :  8am : Flight 210 leaves London  for Frankfurt.<br>  </center>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     \n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD COLSPAN="4">\n
+Action.c(80):       <hr/>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     \n
+Action.c(80):     <!-- Flight #1 -->\n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(80):     <b>\n
+Action.c(80):     <label><input type="checkbox" name="38" value="on" /></label></font></b>\n
+Action.c(80):     <input type="hidden" name="flightID" value="45739653-29239156-KM"  />\n
+Action.c(80):       </TD>\n
+Action.c(80):       <TD width="45%" valign="top">\n
+Action.c(80):           <b>&nbsp;&nbsp;168 Business class tickets for :</b><br/>\n
+Action.c(80):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(80):           <li><i>       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+Action.c(80):     i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li>
+Action.c(80):     <i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li
+Action.c(80):     ><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <l
+Action.c(80):     i><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <
+Action.c(80):     li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      
+Action.c(80):     <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>     
+Action.c(80):      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>    
+Action.c(80):       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>   
+Action.c(80):        <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+Action.c(80):         <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i> 
+Action.c(80):          <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>
+Action.c(80):           <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i
+Action.c(80):     >      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+Action.c(80):     i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li>
+Action.c(80):     <i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li
+Action.c(80):     ><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <l
+Action.c(80):     i><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <
+Action.c(80):     li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      
+Action.c(80):     <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>     
+Action.c(80):      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>    
+Action.c(80):       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>   
+Action.c(80):        <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+Action.c(80):         <li><i>      <l
+Action.c(80): Notify: Saving Parameter "FlightsID_38 = 45739653-29239156-KM".	[MsgId: MMSG-13798]
+Action.c(80): t=1070337ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=148)
+Action.c(80):     cea\r\n
+Action.c(80): t=1070337ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=148)
+Action.c(80):     \r\n
+Action.c(80): t=1070337ms: 3306-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=148)
+Action.c(80):     i><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <
+Action.c(80):     li><i>\n
+Action.c(80):           <li><i></i>\n
+Action.c(80):           </td></tr></table></center>\n
+Action.c(80):       </TD>\n
+Action.c(80):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(80):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(80):           <center>\n
+Action.c(80):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(80):               Ksenia Marks\n
+Action.c(80):     <br/>\n
+Action.c(80):               2685 2 Ave W #5, Prince Albert, SK S6V 5E3<br/>\n
+Action.c(80):               Russia<br/>\n
+Action.c(80):               <br/>\n
+Action.c(80):               Total Charge: $ 109032 <BR/> (CC: x-1234)\n
+Action.c(80):           </td> </tr> </table>\n
+Action.c(80):           </center>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD COLSPAN="3">\n
+Action.c(80):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(80):       07/26/2020\n
+Action.c(80):      :  8am : Flight 970 leaves Zurich  for Seattle.<br>  </center>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     \n
+Action.c(80):     <TR bgcolor="#EFF2F7">\n
+Action.c(80):       <TD COLSPAN="4">\n
+Action.c(80):       <hr/>\n
+Action.c(80):       </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     <TR>\n
+Action.c(80):        <TD align="center" COLSPAN="4">\n
+Action.c(80):        <b>A total of 38 scheduled flights.</font></b>\n
+Action.c(80):        </TD>\n
+Action.c(80):     </TR>\n
+Action.c(80):     </TABLE>\n
+Action.c(80):     \n
+Action.c(80):     <TABLE WIDTH="87%" BORDER="0" CELLSPACING="0">\n
+Action.c(80):     <TR>\n
+Action.c(80):     <TD align="left" width="50%" >\n
+Action.c(80):     <input type="image" name="removeFlights" src="/WebTours/images/cancelreservation.gif" bord
+Action.c(80):     er="0" /></TD>\n
+Action.c(80):     <TD align="right" width="50%" >\n
+Action.c(80):     <input type="image" name="removeAllFlights" src="/WebTours/images/cancelallreservations.gi
+Action.c(80):     f" border="0" /></TD>\n
+Action.c(80):     </TABLE>\n
+Action.c(80):     \n
+Action.c(80):     <div><input type="hidden" name=".cgifields" value="33"  /><input type="hidden" name=".cgif
+Action.c(80):     ields" value="32"  /><input type="hidden" name=".cgifields" value="21"  /><input type="hid
+Action.c(80):     den" name=".cgifields" value="7"  /><input type="hidden" name=".cgifields" value="26"  /><
+Action.c(80):     input type="hidden" name=".cgifields" value="17"  /><input type="hidden" name=".cgifields"
+Action.c(80):      value="2"  /><input type="hidden" name=".cgifields" value="1"  /><input type="hidden" nam
+Action.c(80):     e=".cgifields" value="18"  /><input type="hidden" name=".cgifields" value="30"  /><input t
+Action.c(80):     ype="hidden" name=".cgifields" value="16"  /><input type="hidden" name=".cgifields" value=
+Action.c(80):     "27"  /><input type="hidden" name=".cgifields" value="25"  /><input type="hidden" name=".c
+Action.c(80):     gifields" value="28"  /><input type="hidden" name=".cgifields" value="20"  /><input type="
+Action.c(80):     hidden" name=".cgifields" value="14"  /><input type="hidden" name=".cgifields" value="24" 
+Action.c(80):      /><input type="hidden" name=".cgifields" value="10"  /><input type="hidden" name=".cgifie
+Action.c(80):     lds" value="31"  /><input type="hidden" name=".cgifields" value="35"  /><input type="hidde
+Action.c(80):     n" name=".cgifields" value="11"  /><input type="hidden" name=".cgifields" value="22"  /><i
+Action.c(80):     nput type="hidden" name=".cgifields" value="13"  /><input type="hidden" name=".cgifields" 
+Action.c(80):     value="23"  /><input type="hidden" name=".cgifields" value="29"  /><input type="hidden" na
+Action.c(80):     me=".cgifields" value="6"  /><input type="hidden" name=".cgifields" value="36"  /><input t
+Action.c(80):     ype="hidden" name=".cgifields" value="3"  /><input type="hidden" name=".cgifields" value="
+Action.c(80):     9"  /><input type="hidden" name=".cgifields" value="12"  /><input type="hidden" name=".cgi
+Action.c(80):     fields" value="15"  /><input type="hidden" name=".cgifields" value="38"  /><input type="hi
+Action.c(80):     dden" name=".cgifields" value="8"  /><input type="hidden" name=".cgifields" value="4"  /><
+Action.c(80):     input type="hidden" name=".cgifields" value="34"  /><input type="hidden" name=".cgifields"
+Action.c(80):      value="37"  /><input type="hidden" name=".cgifields" value="19"  /><input type="hidden" n
+Action.c(80):     ame=".cgifields" value="5"  /></div></form>\n
+Action.c(80):     \n
+Action.c(80):     </center>\n
+Action.c(80):     \n
+Action.c(80):     </body>\n
+Action.c(80):     </html>
+Action.c(80): Found resource "http://localhost:1080/WebTours/images/cancelreservation.gif" in HTML "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26659]
+Action.c(80): Found resource "http://localhost:1080/WebTours/images/cancelallreservations.gif" in HTML "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26659]
+Action.c(80): t=1070339ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=148)
+Action.c(80):     0\r\n
+Action.c(80):     \r\n
+Action.c(80): t=1070367ms: 297-byte response headers for "http://localhost:1080/WebTours/images/cancelreservation.gif" (RelFrameId=, Internal ID=151)
+Action.c(80):     HTTP/1.1 200 OK\r\n
+Action.c(80):     Date: Sun, 26 Jul 2020 17:41:15 GMT\r\n
+Action.c(80):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(80):     Last-Modified: Thu, 12 Jan 2012 13:30:27 GMT\r\n
+Action.c(80):     ETag: "f000000057de6-33f-4b654c052c2c0"\r\n
+Action.c(80):     Accept-Ranges: bytes\r\n
+Action.c(80):     Content-Length: 831\r\n
+Action.c(80):     Keep-Alive: timeout=5, max=99\r\n
+Action.c(80):     Connection: Keep-Alive\r\n
+Action.c(80):     Content-Type: image/gif\r\n
+Action.c(80):     \r\n
+Action.c(80): t=1070367ms: 831-byte response body for "http://localhost:1080/WebTours/images/cancelreservation.gif" (RelFrameId=, Internal ID=151)
+Action.c(80): t=1076699ms: 299-byte response headers for "http://localhost:1080/WebTours/images/home.gif" (RelFrameId=, Internal ID=150)
+Action.c(80):     HTTP/1.1 200 OK\r\n
+Action.c(80):     Date: Sun, 26 Jul 2020 17:41:21 GMT\r\n
+Action.c(80):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(80):     Last-Modified: Thu, 12 Jan 2012 13:30:27 GMT\r\n
+Action.c(80):     ETag: "10000000057df8-2b0-4b654c052c2c0"\r\n
+Action.c(80):     Accept-Ranges: bytes\r\n
+Action.c(80):     Content-Length: 688\r\n
+Action.c(80):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(80):     Connection: Keep-Alive\r\n
+Action.c(80):     Content-Type: image/gif\r\n
+Action.c(80):     \r\n
+Action.c(80): t=1076699ms: 688-byte response body for "http://localhost:1080/WebTours/images/home.gif" (RelFrameId=, Internal ID=150)
+Action.c(80): t=1076699ms: 298-byte response headers for "http://localhost:1080/WebTours/images/in_itinerary.gif" (RelFrameId=, Internal ID=149)
+Action.c(80):     HTTP/1.1 200 OK\r\n
+Action.c(80):     Date: Sun, 26 Jul 2020 17:41:21 GMT\r\n
+Action.c(80):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(80):     Last-Modified: Thu, 12 Jan 2012 13:30:27 GMT\r\n
+Action.c(80):     ETag: "b000000057e06-2dd-4b654c052c2c0"\r\n
+Action.c(80):     Accept-Ranges: bytes\r\n
+Action.c(80):     Content-Length: 733\r\n
+Action.c(80):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(80):     Connection: Keep-Alive\r\n
+Action.c(80):     Content-Type: image/gif\r\n
+Action.c(80):     \r\n
+Action.c(80): t=1076699ms: 733-byte response body for "http://localhost:1080/WebTours/images/in_itinerary.gif" (RelFrameId=, Internal ID=149)
+Action.c(80): t=1077063ms: 298-byte response headers for "http://localhost:1080/WebTours/images/cancelallreservations.gif" (RelFrameId=, Internal ID=152)
+Action.c(80):     HTTP/1.1 200 OK\r\n
+Action.c(80):     Date: Sun, 26 Jul 2020 17:41:22 GMT\r\n
+Action.c(80):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(80):     Last-Modified: Thu, 12 Jan 2012 13:30:27 GMT\r\n
+Action.c(80):     ETag: "3000000057de5-2e6-4b654c052c2c0"\r\n
+Action.c(80):     Accept-Ranges: bytes\r\n
+Action.c(80):     Content-Length: 742\r\n
+Action.c(80):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(80):     Connection: Keep-Alive\r\n
+Action.c(80):     Content-Type: image/gif\r\n
+Action.c(80):     \r\n
+Action.c(80): t=1077063ms: 742-byte response body for "http://localhost:1080/WebTours/images/cancelallreservations.gif" (RelFrameId=, Internal ID=152)
+Action.c(80): Registered web_reg_find successful for "Text=User wants the intineraries" (count=1)  	[MsgId: MMSG-26364]
+Action.c(80): Notify: Saving Parameter "FlightsID_count = 38".	[MsgId: MMSG-13798]
+Action.c(80): web_url("Itinerary Button") was successful, 180281 body bytes, 1920 header bytes, 283 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(90): Notify: Transaction "Click_Itinerary_Button" ended with a "Pass" status (Duration: 17,2682 Wasted Time: 0,0009).	[MsgId: MMSG-16871]
+Action.c(92): lr_think_time: 5,00 seconds.	[MsgId: MMSG-15948]
+Action.c(94): Notify: Transaction "Delete_Billet" started.	[MsgId: MMSG-16999]
+Action.c(96): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(96): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(99): web_submit_form("itinerary.pl") started  	[MsgId: MMSG-26355]
+Action.c(99): Submitting form to "http://localhost:1080/cgi-bin/itinerary.pl", Target Frame=""  	[MsgId: MMSG-27978]
+Action.c(99): t=1088076ms: 256-byte response headers for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=153)
+Action.c(99):     HTTP/1.1 200 OK\r\n
+Action.c(99):     Date: Sun, 26 Jul 2020 17:41:33 GMT\r\n
+Action.c(99):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(99):     Expires: Sat, 25 Jul 2020 17:41:33 GMT\r\n
+Action.c(99):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(99):     Connection: Keep-Alive\r\n
+Action.c(99):     Transfer-Encoding: chunked\r\n
+Action.c(99):     Content-Type: text/html; charset=ISO-8859-1\r\n
+Action.c(99):     \r\n
+Action.c(99): t=1088076ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=153)
+Action.c(99):     3a4\r\n
+Action.c(99): t=1088076ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=153)
+Action.c(99):     \r\n
+Action.c(99): t=1088076ms: 932-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=153)
+Action.c(99):     <!DOCTYPE html\n
+Action.c(99):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+Action.c(99):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+Action.c(99):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+Action.c(99):     <head>\n
+Action.c(99):     <title>Flights List</title>\n
+Action.c(99):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+Action.c(99):     </head>\n
+Action.c(99):     <body bgcolor="#E0E7F1">\n
+Action.c(99):     <style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-siz
+Action.c(99):     e : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: taho
+Action.c(99):     ma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 8pt; color: black}
+Action.c(99):     </style><BR/><BR/><h1>&nbsp;&nbsp;<b>Itinerary</b></h1>\n
+Action.c(99):     <blockquote><P break>Unfortunately, we could not delete your entire itinerary because of a
+Action.c(99):      database synchronization error.  If you could please re-load your itinerary and try again
+Action.c(99):     , we would appreciate it.  Thank you for your patience.</blockquote>\n
+Action.c(99):     </body>\n
+Action.c(99):     </html>
+Action.c(99): t=1088078ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=153)
+Action.c(99):     0\r\n
+Action.c(99):     \r\n
+Action.c(99): Registered web_reg_find successful for "Text=Flights List" (count=1)  	[MsgId: MMSG-26364]
+Action.c(99): web_submit_form("itinerary.pl") was successful, 932 body bytes, 256 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(107): Notify: Transaction "Delete_Billet" ended with a "Pass" status (Duration: 6,0018 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Action.c(109): lr_think_time: 5,00 seconds.	[MsgId: MMSG-15948]
+Action.c(111): Notify: Transaction "Sign_Off" started.	[MsgId: MMSG-16999]
+Action.c(113): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(113): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(117): web_url("SignOff Button") started  	[MsgId: MMSG-26355]
+Action.c(117): t=1093134ms: 191-byte response headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=154)
+Action.c(117):     HTTP/1.1 500 Internal Server Error\r\n
+Action.c(117):     Date: Sun, 26 Jul 2020 17:41:38 GMT\r\n
+Action.c(117):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(117):     Content-Length: 535\r\n
+Action.c(117):     Connection: close\r\n
+Action.c(117):     Content-Type: text/html; charset=iso-8859-1\r\n
+Action.c(117):     \r\n
+Action.c(117): t=1093134ms: 535-byte response body for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=154)
+Action.c(117):     <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">\n
+Action.c(117):     <html><head>\n
+Action.c(117):     <title>500 Internal Server Error</title>\n
+Action.c(117):     </head><body>\n
+Action.c(117):     <h1>Internal Server Error</h1>\n
+Action.c(117):     <p>The server encountered an internal error or\n
+Action.c(117):     misconfiguration and was unable to complete\n
+Action.c(117):     your request.</p>\n
+Action.c(117):     <p>Please contact the server administrator,\n
+Action.c(117):      admin@localhost and inform them of the time the error occurred,\n
+Action.c(117):     and anything you might have done that may have\n
+Action.c(117):     caused the error.</p>\n
+Action.c(117):     <p>More information about this error may be available\n
+Action.c(117):     in the server error log.</p>\n
+Action.c(117):     </body></html>\n
+Action.c(117): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MERR-26612]
+Action.c(117): Error -26366: "Text=A Session ID has been created" not found for web_reg_find  	[MsgId: MERR-26366]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
